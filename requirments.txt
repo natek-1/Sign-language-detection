@@ -52,7 +52,8 @@ thop>=0.1.1  # FLOPs computation
 # mss  # screenshots
 # albumentations>=1.0.3
 # pycocotools>=2.0  # COCO mAP
-# roboflow
+roboflow
+python-dotenv==0.21.0
 
 
 -e .
