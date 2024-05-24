@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "signLanguage"
+project_name = "sign_language"
 
 
 list_of_files = [
